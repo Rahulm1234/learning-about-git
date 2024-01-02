@@ -1,1 +1,5 @@
-this is file 3 which is creatd after stash.
+this is file 3 which is creatd after stash
+
+
+
+this is the modification/ addin some text.
